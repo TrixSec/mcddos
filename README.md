@@ -1,4 +1,10 @@
+## Usage
+
+java -jar MCBOT.jar <IP:PORT> <PROTOCOL> <METHOD> <SECONDS> <CPS> 
+
+
 ## Methods
+
 bigpacket
 botjoiner
 doublejoin
@@ -23,4 +29,3 @@ randompacket
 bighandshake
 unexpectedpacket
 memory
-test
