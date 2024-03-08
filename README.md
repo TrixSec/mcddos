@@ -1,6 +1,6 @@
 ## Usage
 
-java -jar MCBOT.jar <IP:PORT> <PROTOCOL> <METHOD> <SECONDS> <CPS> 
+usage.txt
 
 
 ## Methods
