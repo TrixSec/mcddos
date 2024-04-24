@@ -29,3 +29,6 @@ randompacket
 bighandshake
 unexpectedpacket
 memory
+
+
+# Telegram : https://t.me/Trixsec
